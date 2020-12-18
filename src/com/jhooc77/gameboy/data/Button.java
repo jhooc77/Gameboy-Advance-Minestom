@@ -1,0 +1,7 @@
+package com.jhooc77.gameboy.data;
+
+public enum Button {
+
+    BUTTONLEFT, BUTTONRIGHT, BUTTONUP, BUTTONDOWN, BUTTONA, BUTTONB, BUTTONSTART, BUTTONSELECT
+
+}

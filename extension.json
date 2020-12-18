@@ -1,0 +1,6 @@
+{
+  "entrypoint": "com.jhooc77.gameboy.GameboyExtension",
+  "name": "GameboyAdvanced",
+  "version": "1.0",
+  "author": "BabyMandarinDuck"
+}
